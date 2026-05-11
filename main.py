@@ -2,7 +2,6 @@
 NECTA CSEE Results API - Kupata matokeo ya mtihani wa kidato cha nne
 API ya kupata matokeo ya mtihani wa CSEE kutoka tovuti ya NECTA
 """
-
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 import requests

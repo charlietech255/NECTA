@@ -191,8 +191,7 @@ We welcome contributions! Please follow these steps:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-ttp://127.0.0.1:8001
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) 
 ## ⚠️ Disclaimer
 
 This API is for educational and informational purposes only. Users should:
@@ -210,7 +209,7 @@ The developers are not responsible for any misuse of this tool. Always ensure co
 
 ## 🙏 Acknowledgments
 
-- National Examinations Council of Tanzania (NECTA) for providing examination data
+- National Examinations Council of Tanzania (NECTA) for providing examination data even though I got no permission from You
 - FastAPI community for the excellent web framework
 - Contributors and users of this project
 
